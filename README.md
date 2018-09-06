@@ -12,3 +12,8 @@ Unique, persistent data for each user.
 
 ## Motivation
 Create a project that demonstrates a multitude of technologies available for full stack applications. 
+## Technologies Used
+HTML, CSS, Bootstrap, JavaScript, jQuery, Handlebars.js, APIs, JSON, MySQL, Sequelize, Node.js
+
+API's used:
+Node-mailer
